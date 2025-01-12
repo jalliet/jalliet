@@ -8,10 +8,11 @@
 - 🌱 I'm currently consolidating my full-stack skills
 - 💬 Ask me about Computer Vision/Robotics/RasPi
 - 👁️ Check out some of my public datasets and model deployments: [Datasets](https://app.roboflow.com/jalliet/datasets)
-- ⏳ Coming Soon:
-	- ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
-	- Aiperture (👁️perture): Get up to speed in computer vision
 - 📫 Let's [Connect](https://www.linkedin.com/in/jalliet)
+
+## Coming Soon
+- 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
+- 👀 Aiperture (👁️perture): Get up to speed in computer vision
 
 
 ## 🛠️ Languages and Tools
