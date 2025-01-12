@@ -6,11 +6,11 @@
 - 🤖 Robotics and Computer Vision Enthusiast, Data Scientist by trade
 - 🔭 I'm currently working on DSA and multi-purpose computer vision pipelines
 - 🌱 I'm currently consolidating my full-stack skills
-- 💬 Ask me about Computer Vision/Robotics/RasPi
-- 👁️ Check out some of my public datasets and model deployments: [Datasets](https://app.roboflow.com/jalliet/datasets)
-- 📫 Let's [Connect](https://www.linkedin.com/in/jalliet)
+- 💬 Ask me about Computer Vision, Robotics, and Raspberry Pi projects
+- 👁️ Check out my [Roboflow public projects](https://app.roboflow.com/jalliet/datasets)
+- 📫 Let's [connect](https://www.linkedin.com/in/jalliet)
 
-## Coming Soon
+### Coming Soon
 - 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
 - 👀 Aiperture (👁️perture): Get up to speed in computer vision
 
