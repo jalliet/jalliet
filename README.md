@@ -12,34 +12,27 @@
 
 
 ## Languages and Tools
-<p align="center">
-<code><img height="20" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></code>
-<code><img height="20" src="https://app.roboflow.com/images/logo.png"></code>
-<code><img height="20" src="https://matplotlib.org/stable/_static/logo2.svg"></code>
-<code><img height="20" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
-<code><img height="20" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></code>
-<code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://developer.apple.com/swift/images/swift-og.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png"></code>
-<code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/cloud/images/cloud-logo.svg"></code>
-<code><img height="20" src="https://azure.microsoft.com/favicon.ico"></code>
-<code><img height="20" src="https://www.tensorflow.org/images/tf_logo_social.png"></code>
-<code><img height="20" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-</p>
 
-## GitHub Stats
+| Category | Tools & Technologies |
+|----------|---------------------|
+| Computer Vision & ML/AI | <code><img height="20" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></code> <code><img height="20" src="https://app.roboflow.com/images/logo.png"></code> <code><img height="20" src="https://www.tensorflow.org/images/tf_logo_social.png"></code> |
+| Data Science & Analysis | <code><img height="20" src="https://matplotlib.org/stable/_static/logo2.svg"></code> <code><img height="20" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code> <code><img height="20" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></code> <code><img height="20" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code> |
+| Programming Languages | <code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://developer.apple.com/swift/images/swift-og.png"></code> |
+| Web Development | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> |
+| DevOps & Cloud | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> <code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> |
 
-<a href="https://github.com/jalliet">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalliet&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats" width="48%" align="left">
-</a>
-<a href="https://github.com/jalliet">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalliet&theme=gotham" alt="GitHub Streak" width="48%" align="right">
-</a>
+## ⚡️ GitHub Stats
+
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=jalliet&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats" width="100%" />
+		</td>
+		<td>
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=jalliet&theme=gotham" alt="GitHub Streak" width="100%" />
+		</td>
+	</tr>
+</table>
 
 <br clear="both">
 
