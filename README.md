@@ -31,10 +31,10 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=jalliet&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats" width="100%" />
+			<img src="https://github-readme-stats.vercel.app/api?username=jalliet&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats" width="86%" />
 		</td>
 		<td>
-			<img src="https://github-readme-streak-stats.herokuapp.com/?user=jalliet&theme=gotham" alt="GitHub Streak" width="100%" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalliet&theme=gotham&layout=compact&hide=Jupyter%20Notebook&langs_count=8" alt="Top Languages" width="100%" />
 		</td>
 	</tr>
 </table>
@@ -46,7 +46,3 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=jalliet&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p> -->
 
-## 🧮 Language Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalliet&theme=gotham&layout=compact&hide=Jupyter%20Notebook&langs_count=8" alt="Top Languages">
-</p>
