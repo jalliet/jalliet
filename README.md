@@ -48,6 +48,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalliet&theme=gotham&layout=compact&hide=Jupyter%20Notebook&langs_count=8" alt="Top Languages">
 </p>
-
-## 📊 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=jalliet&theme=gotham&area=true" alt="Contribution Graph" width="100%">
