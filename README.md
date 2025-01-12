@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=jalliet&label=Views&color=blue&style=plastic" alt="jalliet" />
 
 ## About Me
-- 🤖 Robotics and Computer Vision Enthusiast, Data Scientist by trade
+- 🤖 Robotics, Computer Vision and Hackathon Enthusiast, Data Scientist by trade
 - 🔭 I'm currently working on DSA and multi-purpose computer vision pipelines
 - 🌱 I'm currently consolidating my full-stack skills
 - 💬 Ask me about Computer Vision, Robotics, and Raspberry Pi projects
