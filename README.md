@@ -28,16 +28,13 @@
 
 ## ⚡️ GitHub Stats
 
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=jalliet&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats" width="86%" />
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalliet&theme=gotham&layout=compact&hide=Jupyter%20Notebook&langs_count=8" alt="Top Languages" width="100%" />
-		</td>
-	</tr>
-</table>
+<a href="https://github.com/jalliet/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&theme=gotham" />
+</a>
+&nbsp;
+<a href="https://github.com/jalliet/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api/top-langs?username=jalliet&theme=gotham&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br clear="both">
 
