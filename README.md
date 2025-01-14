@@ -14,6 +14,12 @@
 - 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
 - 👀 Aiperture (👁️perture): Get up to speed in computer vision
 
+## Lately
+<br>
+<a href="https://github.com/jalliet">
+  <img src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&hide=stars,prs,contribs,issues&show_icons=true&theme=gotham&layout=compact" alt="jalliet's github stats" width=450px/>
+</a><br><br>
+
 
 ## 🛠️ Languages and Tools
 
@@ -26,7 +32,7 @@
 | DevOps & Cloud | <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black"/> | <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white"/> |
 | Embedded Systems/IoT | <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat-square&logo=raspberry-pi&logoColor=white"/> | |
 
-## ⚡️ GitHub Stats
+## ⚡️ All-time GitHub Stats
 
 <a href="https://github.com/jalliet/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&theme=gotham&show_icons=true&include_all_commits=true" />
