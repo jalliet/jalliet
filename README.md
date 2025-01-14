@@ -14,11 +14,11 @@
 - 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
 - 👀 Aiperture (👁️perture): Get up to speed in computer vision
 
-## Lately
+<!-- ## Lately
 <br>
 <a href="https://github.com/jalliet">
   <img align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&hide=stars,prs,contribs,issues&show_icons=true&theme=gotham&layout=compact" alt="jalliet's github stats" height=150px width="400px"/>
-</a><br><br>
+</a><br><br> -->
 
 
 ## 🛠️ Languages and Tools
