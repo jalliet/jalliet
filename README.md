@@ -17,7 +17,7 @@
 ## Lately
 <br>
 <a href="https://github.com/jalliet">
-  <img src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&hide=stars,prs,contribs,issues&show_icons=true&theme=gotham&layout=compact" alt="jalliet's github stats" width=450px/>
+  <img src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&hide=stars,prs,contribs,issues&show_icons=true&theme=gotham&layout=compact" alt="jalliet's github stats" height=110px align="center"/>
 </a><br><br>
 
 
