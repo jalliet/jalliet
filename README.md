@@ -35,7 +35,7 @@
 ## ⚡️ All-time GitHub Stats
 
 <a href="https://github.com/jalliet/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&theme=gotham&show_icons=true&include_all_commits=true" />
+<img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&theme=gotham&show_icons=true&include_all_commits=true&rank_icon=github" />
 </a>
 &nbsp;
 <a href="https://github.com/jalliet/convoychat">
