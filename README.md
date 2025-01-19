@@ -11,8 +11,9 @@
 - 📫 Let's [connect](https://www.linkedin.com/in/jalliet)
 
 ### Coming Soon
+- 🩸 EpiTrack: your AI-powered nosebleed prediction and preparedness companion
 - 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
-- ⏳ Ai(👁️)perture : Get up to speed in computer vision... 
+<!-- - ⏳ Ai(👁️)perture: Get up to speed in computer vision... -->
 
 <!-- ## Lately
 <br>
