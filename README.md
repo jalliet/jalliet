@@ -12,8 +12,8 @@
 
 ### Coming Soon
 - 🩸 EpiTrack: your AI-powered nosebleed prediction and preparedness companion
+- ⏳ Ai(👁️)perture: Get up to speed in computer vision... 
 - 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
-<!-- - ⏳ Ai(👁️)perture: Get up to speed in computer vision... -->
 
 <!-- ## Lately
 <br>
@@ -36,7 +36,7 @@
 ## ⚡️ All-time GitHub Stats
 
 <a href="https://github.com/jalliet/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&theme=gotham&show_icons=true&include_all_commits=true&rank_icon=github" />
+<img height=200 align="center" src="https://github-readme-stats-sigma-bay-74.vercel.app/api?username=jalliet&exclude_repo=jalliet-portfolio&theme=gotham&show_icons=true&include_all_commits=true&rank_icon=github" />
 </a>
 &nbsp;
 <a href="https://github.com/jalliet/convoychat">
