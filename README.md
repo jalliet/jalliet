@@ -5,15 +5,15 @@
 ## About Me
 - 🤖 Robotics, Computer Vision and Hackathon Enthusiast, Data Scientist by trade
 - 🔭 I'm currently working on DSA and multi-purpose computer vision pipelines
-- 🌱 I'm currently consolidating my full-stack andn design skills
+- 🌱 I'm currently consolidating my full-stack and design skills
 - 💬 Ask me about Computer Vision, Robotics and Raspberry Pi projects
 - 👁️ Check out my [Roboflow public projects](https://app.roboflow.com/jalliet/datasets)
 - 📫 Let's [connect](https://www.linkedin.com/in/jalliet)
 
-### Coming Soon
-- 🩸 EpiTrack: your AI-powered nosebleed prediction and preparedness companion
+<!-- ### Coming Soon
+ - 🩸 EpiTrack: your AI-powered nosebleed prediction and preparedness companion
 - ⏳ Ai(👁️)perture: Get up to speed in computer vision... 
-- 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) 
+- 📝 ML/AI/CV Paper [Submissions](https://app.readytensor.ai/) -->
 
 <!-- ## Lately
 <br>
